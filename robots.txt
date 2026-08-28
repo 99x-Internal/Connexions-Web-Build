@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://connexions-oslo.example.com/sitemap-index.xml
+Sitemap: https://99x-internal.github.io/Connexions-Web-Build/sitemap-index.xml
