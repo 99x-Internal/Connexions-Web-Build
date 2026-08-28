@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Connexions Oslo//Conference Site//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Connexions Oslo
+BEGIN:VEVENT
+UID:keynote-future-of-oslo@connexions-oslo
+DTSTAMP:20261014T220000Z
+DTSTART:20261015T070000Z
+DTEND:20261015T080000Z
+SUMMARY:Keynote: The Future of Oslo
+LOCATION:Main Stage\, Oslo\, Norway
+DESCRIPTION:Dr. Elara Vance - Urban Futurist\nExploring the intersection of
+  sustainable tech and Nordic design principles in the coming decade.\nConn
+ exions Oslo · 09:00 – 10:00
+END:VEVENT
+BEGIN:VEVENT
+UID:navigating-global-markets@connexions-oslo
+DTSTAMP:20261014T220000Z
+DTSTART:20261015T093000Z
+DTEND:20261015T103000Z
+SUMMARY:Navigating Global Markets
+LOCATION:Studio A\, Oslo\, Norway
+DESCRIPTION:Industry Leaders Forum\nA frank discussion on capital\, risk an
+ d expansion for Nordic companies going global.\nConnexions Oslo · 11:30 – 
+ 12:30
+END:VEVENT
+BEGIN:VEVENT
+UID:networking-lunch@connexions-oslo
+DTSTAMP:20261014T220000Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Networking Lunch
+LOCATION:Atrium\, Oslo\, Norway
+DESCRIPTION:Curated local cuisine. A chance to connect with peers and speak
+ ers in an informal setting.\nConnexions Oslo · 12:30 – 14:00
+END:VEVENT
+BEGIN:VEVENT
+UID:building-resilient-teams@connexions-oslo
+DTSTAMP:20261014T220000Z
+DTSTART:20261015T120000Z
+DTEND:20261015T133000Z
+SUMMARY:Building Resilient Teams
+LOCATION:Studio B\, Oslo\, Norway
+DESCRIPTION:Moderated by Lars Jensen\nAn interactive session on scaling sta
+ rtup culture within traditional enterprise frameworks.\nConnexions Oslo · 
+ 14:00 – 15:30
+END:VEVENT
+BEGIN:VEVENT
+UID:idea-exchange@connexions-oslo
+DTSTAMP:20261014T220000Z
+DTSTART:20261015T140000Z
+DTEND:20261015T153000Z
+SUMMARY:Panel: Idea Exchange
+LOCATION:Studio B\, Oslo\, Norway
+DESCRIPTION:Moderated by Lars Jensen\nAn open-floor debate where the audien
+ ce sets the agenda and the speakers have to keep up.\nConnexions Oslo · 16
+ :00 – 17:30
+END:VEVENT
+BEGIN:VEVENT
+UID:afterparty@connexions-oslo
+DTSTAMP:20261014T220000Z
+DTSTART:20261015T160000Z
+DTEND:20261015T190000Z
+SUMMARY:Afterparty & Sundowners
+LOCATION:Rooftop Lounge\, Oslo\, Norway
+DESCRIPTION:Closing out the day with music\, drinks\, and the best view of 
+ the Oslo skyline.\nConnexions Oslo · 18:00 – 21:00
+END:VEVENT
+END:VCALENDAR

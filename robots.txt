@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://connexions-oslo.example.com/sitemap-index.xml

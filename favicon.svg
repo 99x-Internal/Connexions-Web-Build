@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#000"/>
+  <g transform="rotate(-2 16 16)">
+    <rect x="4" y="10" width="24" height="13" fill="#b191c1" stroke="#000" stroke-width="2"/>
+    <text x="16" y="20.5" font-family="Impact, Haettenschweiler, sans-serif" font-size="11"
+          text-anchor="middle" fill="#000" letter-spacing="0.5">CO</text>
+  </g>
+</svg>
