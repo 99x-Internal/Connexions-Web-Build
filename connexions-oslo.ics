@@ -5,67 +5,119 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Connexions Oslo
 BEGIN:VEVENT
-UID:keynote-future-of-oslo@connexions-oslo
+UID:registration@connexions-oslo
 DTSTAMP:20261014T220000Z
-DTSTART:20261015T070000Z
-DTEND:20261015T080000Z
-SUMMARY:Keynote: The Future of Oslo
-LOCATION:Main Stage\, Oslo\, Norway
-DESCRIPTION:Dr. Elara Vance - Urban Futurist\nExploring the intersection of
-  sustainable tech and Nordic design principles in the coming decade.\nConn
- exions Oslo · 09:00 – 10:00
+DTSTART:20261015T080000Z
+DTEND:20261015T083000Z
+SUMMARY:Registration & coffee
+LOCATION:Welcome\, Oslo\, Norway
+DESCRIPTION:Doors open. Pick up your badge\, grab a coffee and say hello be
+ fore we start.\nConnexions Oslo · 10:00 – 10:30
 END:VEVENT
 BEGIN:VEVENT
-UID:navigating-global-markets@connexions-oslo
+UID:opening-keynote@connexions-oslo
 DTSTAMP:20261014T220000Z
-DTSTART:20261015T093000Z
-DTEND:20261015T103000Z
-SUMMARY:Navigating Global Markets
-LOCATION:Studio A\, Oslo\, Norway
-DESCRIPTION:Industry Leaders Forum\nA frank discussion on capital\, risk an
- d expansion for Nordic companies going global.\nConnexions Oslo · 11:30 – 
- 12:30
+DTSTART:20261015T083000Z
+DTEND:20261015T091500Z
+SUMMARY:Opening keynote
+LOCATION:AI in the real world\, Oslo\, Norway
+DESCRIPTION:To be announced\nSetting the scene: where AI has actually lande
+ d in organisations\, and where the headlines and the reality diverge.\nCon
+ nexions Oslo · 10:30 – 11:15
 END:VEVENT
 BEGIN:VEVENT
-UID:networking-lunch@connexions-oslo
+UID:case-studies@connexions-oslo
 DTSTAMP:20261014T220000Z
-DTSTART:20261015T103000Z
-DTEND:20261015T120000Z
-SUMMARY:Networking Lunch
-LOCATION:Atrium\, Oslo\, Norway
-DESCRIPTION:Curated local cuisine. A chance to connect with peers and speak
- ers in an informal setting.\nConnexions Oslo · 12:30 – 14:00
+DTSTART:20261015T091500Z
+DTEND:20261015T100000Z
+SUMMARY:Case studies: AI in production
+LOCATION:AI in the real world\, Oslo\, Norway
+DESCRIPTION:To be announced\nThe problems teams set out to solve\, what the
+ y built\, what broke and the results they have seen since.\nConnexions Osl
+ o · 11:15 – 12:00
 END:VEVENT
 BEGIN:VEVENT
-UID:building-resilient-teams@connexions-oslo
+UID:lunch@connexions-oslo
 DTSTAMP:20261014T220000Z
-DTSTART:20261015T120000Z
-DTEND:20261015T133000Z
-SUMMARY:Building Resilient Teams
-LOCATION:Studio B\, Oslo\, Norway
-DESCRIPTION:Moderated by Lars Jensen\nAn interactive session on scaling sta
- rtup culture within traditional enterprise frameworks.\nConnexions Oslo · 
- 14:00 – 15:30
+DTSTART:20261015T100000Z
+DTEND:20261015T110000Z
+SUMMARY:Lunch & networking
+LOCATION:Networking\, Oslo\, Norway
+DESCRIPTION:Compare notes with people solving the same problems in differen
+ t organisations.\nConnexions Oslo · 12:00 – 13:00
 END:VEVENT
 BEGIN:VEVENT
-UID:idea-exchange@connexions-oslo
+UID:agents@connexions-oslo
 DTSTAMP:20261014T220000Z
-DTSTART:20261015T140000Z
-DTEND:20261015T153000Z
-SUMMARY:Panel: Idea Exchange
-LOCATION:Studio B\, Oslo\, Norway
-DESCRIPTION:Moderated by Lars Jensen\nAn open-floor debate where the audien
- ce sets the agenda and the speakers have to keep up.\nConnexions Oslo · 16
- :00 – 17:30
+DTSTART:20261015T110000Z
+DTEND:20261015T114500Z
+SUMMARY:From experiments to agents
+LOCATION:AI agents\, Oslo\, Norway
+DESCRIPTION:To be announced\nReal use cases and early experiences as agents
+  move into software development and everyday workflows.\nConnexions Oslo ·
+  13:00 – 13:45
 END:VEVENT
 BEGIN:VEVENT
-UID:afterparty@connexions-oslo
+UID:foundations@connexions-oslo
 DTSTAMP:20261014T220000Z
-DTSTART:20261015T160000Z
-DTEND:20261015T190000Z
-SUMMARY:Afterparty & Sundowners
-LOCATION:Rooftop Lounge\, Oslo\, Norway
-DESCRIPTION:Closing out the day with music\, drinks\, and the best view of 
- the Oslo skyline.\nConnexions Oslo · 18:00 – 21:00
+DTSTART:20261015T114500Z
+DTEND:20261015T123000Z
+SUMMARY:The foundations behind AI
+LOCATION:Data & architecture\, Oslo\, Norway
+DESCRIPTION:To be announced\nData\, architecture\, security and sovereignty
+ : the decisions that determine whether an AI initiative survives contact w
+ ith production.\nConnexions Oslo · 13:45 – 14:30
+END:VEVENT
+BEGIN:VEVENT
+UID:coffee@connexions-oslo
+DTSTAMP:20261014T220000Z
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+SUMMARY:Coffee & conversations
+LOCATION:Networking\, Oslo\, Norway
+DESCRIPTION:A break in the middle of the afternoon\, and time to keep the l
+ ast conversation going.\nConnexions Oslo · 14:30 – 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:economics@connexions-oslo
+DTSTAMP:20261014T220000Z
+DTSTART:20261015T130000Z
+DTEND:20261015T134500Z
+SUMMARY:Does the value add up?
+LOCATION:AI economics\, Oslo\, Norway
+DESCRIPTION:To be announced\nCost\, efficiency\, productivity and investmen
+ t: honest numbers on turning AI potential into measurable business value.\
+ nConnexions Oslo · 15:00 – 15:45
+END:VEVENT
+BEGIN:VEVENT
+UID:panel@connexions-oslo
+DTSTAMP:20261014T220000Z
+DTSTART:20261015T134500Z
+DTEND:20261015T143000Z
+SUMMARY:Panel: what we would do differently
+LOCATION:Sovereignty\, Oslo\, Norway
+DESCRIPTION:To be announced\nAn open discussion across the day's themes\, w
+ ith time for the questions that do not always make it onto the stage.\nCon
+ nexions Oslo · 15:45 – 16:30
+END:VEVENT
+BEGIN:VEVENT
+UID:closing@connexions-oslo
+DTSTAMP:20261014T220000Z
+DTSTART:20261015T143000Z
+DTEND:20261015T150000Z
+SUMMARY:Closing remarks
+LOCATION:Welcome\, Oslo\, Norway
+DESCRIPTION:To be announced\nWhat we heard\, what it means and what to watc
+ h next.\nConnexions Oslo · 16:30 – 17:00
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner@connexions-oslo
+DTSTAMP:20261014T220000Z
+DTSTART:20261015T150000Z
+DTEND:20261015T170000Z
+SUMMARY:Dinner & drinks
+LOCATION:Networking\, Oslo\, Norway
+DESCRIPTION:Continue the conversation over dinner and drinks with fellow le
+ aders and practitioners.\nConnexions Oslo · 17:00
 END:VEVENT
 END:VCALENDAR
