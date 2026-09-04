@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://connexions-oslo.example.com/sitemap-index.xml
+Sitemap: https://connexions.99x.io/sitemap-index.xml
